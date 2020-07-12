@@ -1,0 +1,9 @@
+[package]
+name = "gitsee"
+version = "0.1.0"
+authors = ["Bryan Manuele <manuelebryan@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.33.1"
+git2 = "0.13.6"
